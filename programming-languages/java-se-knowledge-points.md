@@ -1,17 +1,19 @@
 # Java Knowledge Points
 
-### Content
+**Content**
 
 - Part I: Basics
   - Variables and Types
   - Expression
   - String and Array
-  - Objects and Classes
-  - Packages
 - Part II: Core
+  - Classes
+    - Objects and Classes
+    - Packages
+    - Inheritance
+    - Polymorphism
+    - Abstract Class and Interface
   - Exception
-  - IO
-  - Collections
   - Generics
   - Lambda and Stream
   - Reflection and Proxy
@@ -19,10 +21,12 @@
   - Internationalization
   - Time and Schedule
 - Part III: Advanced Topics
+  - IO & NIO
+  - Collections
   - Concurrency
-  - Sockets and NIO
+  - Sockets & RMI
   - Java Security
-  - JVM internal and Tuning
+  - JVM (internal and Tuning)
   - JMX, JNDI, JAXP, RMI
   - GUI and Swing
 - Part IV: Utility Libraries
