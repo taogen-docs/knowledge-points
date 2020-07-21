@@ -4,22 +4,26 @@
 
 - Part I: Basics
   - Variables and Types
-  - Expression
+  - Operators
+  - Expressions, Statements, and Blocks
   - String and Array
 - Part II: Core
-  - Classes
-    - Objects and Classes
+  - Classes and Objects
+    - Object-Oriented
+    - Classes
+    - Objects
     - Packages
-    - Inheritance
-    - Polymorphism
+    - Keywords
+    - Enum Types
+    - Wrapper Types
+  - Interfaces and Inheritance
+    - Inheritance and Polymorphism
     - Abstract Class and Interface
-  - Exception
+  - Annotations
   - Generics
+  - Exception
   - Lambda and Stream
   - Reflection and Proxy
-  - Annotations
-  - Internationalization
-  - Time and Schedule
 - Part III: Advanced Topics
   - IO & NIO
   - Collections
@@ -29,10 +33,16 @@
   - JVM (internal and Tuning)
   - JMX, JNDI, JAXP, RMI
   - GUI and Swing
-- Part IV: Utility Libraries
+- Part IV: Libraries
+  - Regular Expression
+  - Internationalization
+  - Timer and Schedule
   - Send Mail
   - Dara Parse (XML, JSON, Excel, PDF)
   - Apache Commons
+- References
+
+
 
 ## Part I: Basics
 
@@ -80,5 +90,16 @@
 
 
 
+
+## References
+
+- Core Java
+- The Java Tutorial_ A Short Course on the Basics
+- Java Tutorials Documentation
+- The Java Programming Language
+- Head First Java
+- Java: The Complete Reference
+- The Java® Language Specification
+- [Java工程师成神之路](http://hollischuang.gitee.io/tobetopjavaer/)
 
 --END--
