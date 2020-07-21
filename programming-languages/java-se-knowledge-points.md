@@ -2,6 +2,7 @@
 
 **Content**
 
+- Introduction & The Java Platform
 - Part I: Basics
   - Variables and Types
   - Operators
@@ -29,8 +30,8 @@
   - Collections
   - Concurrency
   - Sockets & RMI
-  - Java Security
   - JVM (internal and Tuning)
+  - Java Security
   - JMX, JNDI, JAXP, RMI
   - GUI and Swing
 - Part IV: Libraries
@@ -93,6 +94,8 @@
 
 ## References
 
+- My Organizing
+  - "D:\my\_pro\interview\interview-questions\java-knowledge-points.md"
 - Core Java
 - The Java Tutorial_ A Short Course on the Basics
 - Java Tutorials Documentation
