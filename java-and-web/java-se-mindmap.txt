@@ -1,0 +1,135 @@
+@startmindmap
+
+* Java
+
+'introduction
+
+** Introduction
+
+*** Introduction to Java
+
+**** Java Platform
+**** Java Features
+**** History of Java
+
+*** The Java Programming Environment
+
+**** Installing Java Development Kit
+**** Using Command-Line Tools
+**** Using an Integrated Development Environment
+**** JShell
+
+'''''''''''''''''''''''''''''''''''
+'basics
+
+** Basics
+
+*** Variables and Types
+
+**** Primitive Data Types
+**** Variables and Constants
+**** Literals
+**** Char and Encoding
+
+*** Operators and Expressions
+
+**** Arithmetic Operations
+**** General Operations
+**** Expressions
+**** Operator Priority
+**** Member Access
+
+*** Control Flow
+
+**** Statements and Blocks
+**** If Condition
+**** For Loop
+**** Return
+
+*** String and Array
+
+**** String Declaration
+**** String Conversion and Formatting
+**** Array Declaration and Initialization
+**** Array Operations
+
+*** Comments
+
+
+'''''''''''''''''''''''''''''''''''
+'core
+
+** Core
+
+*** Classes and Objects
+
+**** Classes
+**** Fields (static, final)
+**** Access Control
+**** Creating Objects
+**** Construction and Initialization
+**** Methods
+***** The main Method
+***** Native Methods
+**** this
+**** Overloading Methods
+**** Static members
+
+
+*** Inheritance and Polymorphism
+
+
+*** Interfaces, Lambda Expressions, and Inner Classes
+
+*** Exceptions, Assertions, and Logging
+
+*** Generics Programming
+
+*** Annotations
+
+*** Reflection and Proxy
+
+*** Enumeration Types and Wrapper Types
+
+**** Enum Declaration
+**** Enum Variables and Constants
+**** Enum Implementation Mechanisms
+
+
+'''''''''''''''''''''''''''''''''''
+'advanced
+
+** Advanced
+
+*** Input and Output (IO & NIO)
+
+*** Collections and Steams
+
+*** Concurrency
+
+*** Network Programming (Sockets & RMI)
+
+*** Java Virtual Machine (internal and Tuning)
+
+*** Java Security
+
+*** JMX, JNDI, JAXP, RMI
+
+*** GUI Programming and Swing
+
+
+'''''''''''''''''''''''''''''''''''
+'Utility
+
+** Utility Libraries
+
+*** Date and Time
+
+*** Regular Expression
+
+*** Timer and Scheduler
+
+*** Internationalization
+
+
+@endmindmap
