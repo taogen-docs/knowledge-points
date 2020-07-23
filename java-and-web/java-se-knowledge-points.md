@@ -22,7 +22,7 @@
     - Abstract Class and Interface
   - Annotations
   - Generics
-  - Exception
+  - Exceptions and Assertions
   - Lambda and Stream
   - Reflection and Proxy
 - Part III: Advanced Topics
