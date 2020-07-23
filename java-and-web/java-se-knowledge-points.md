@@ -2,7 +2,7 @@
 
 **Content**
 
-- Introduction & The Java Platform
+- Introduction to Java Platform
 - Part I: Basics
   - Variables and Types
   - Operators
@@ -98,11 +98,11 @@
   - "D:\my\_pro\interview\interview-questions\java-knowledge-points.md"
 - Core Java
 - The Java Tutorial_ A Short Course on the Basics
-- Java Tutorials Documentation
-- The Java Programming Language
-- Head First Java
-- Java: The Complete Reference
-- The Java® Language Specification
+- /Java Tutorials Documentation
+- //The Java Programming Language (4th)
+- //Head First Java (2nd)
+- Java: The Complete Reference (11th)
+- The Java Language Specification
 - [Java工程师成神之路](http://hollischuang.gitee.io/tobetopjavaer/)
 
 --END--
