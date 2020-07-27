@@ -63,22 +63,30 @@
 
 *** Classes and Objects
 
+**** Object-Oriented Programming
 **** Classes
 **** Fields (static, final)
 **** Access Control
 **** Creating Objects
-**** Construction and Initialization
+**** Object Construction and Initialization
 **** Methods
 ***** The main Method
 ***** Native Methods
 **** this
 **** Overloading Methods
 **** Static members
-
+**** Packages
+**** JAR files
 
 *** Inheritance and Polymorphism
 
-**** TODO
+**** Classes, Superclasses, and subclasses
+**** super keyword
+**** Constructors Executions
+**** Method Overriding
+**** Dynamic Method Dispatch
+**** The Object Class
+
 
 *** Interfaces, Lambda Expressions, and Inner Classes
 
@@ -89,6 +97,7 @@
 **** Inner Classes
 **** Local Inner Classes
 **** Anonymous Inner Classes
+**** Lambda Expressions
 
 *** Exceptions, Assertions, and Logging
 
@@ -161,14 +170,44 @@
 **** Map
 **** The Utility Classes: Collections, Arrays
 **** Synchronized and Concurrent Collections
+**** Streams
 
 *** Concurrency
 
+**** Processes and Threads
+**** Thread Objects
+**** Synchronization
+**** Liveness
+**** Guarded Blocks
+**** High Level Concurrency Objects
+
 *** Network Programming (Sockets & RMI)
+
+**** Socket and ServerSocket
+**** URL
+**** HTTP Client
+**** Send E-Mail
 
 *** Java Virtual Machine (internal and Tuning)
 
+**** JVM Architecture
+**** Adaptive Code Generation
+**** Adaptive Memory Management
+**** Threads and Synchronization
+**** Performance Monitoring
+**** Profiling
+**** Tuning
+**** Benchmarking
+**** Graphical Tools
+
+
 *** Java Security
+
+**** Class Loaders
+**** Security Managers and Permissions
+**** User Authentication
+**** Digital Signatures
+**** Encryption
 
 *** JMX, JNDI, JAXP, RMI
 
@@ -181,12 +220,26 @@
 ** Utility Libraries
 
 *** Date and Time
-
-*** Regular Expression
-
+*** Formatter
+*** BitSet
+*** Random
 *** Timer and Scheduler
-
+*** UUID
+*** Math and StrictMath
+*** Regular Expression
 *** Internationalization
 
+
+'''''''''''''''''''''''''''''''''''''''''''
+' References:
+' The Java Programming Language
+' The Java Tutorial: A Short Course on the Basics
+' The Java Tutorial - DOC
+' Core Java
+' Java: The Complete Reference
+' The Java Language Specification
+' Oracle JRockit: The Definitive Guide
+' Java Performance by Charlie Hunt
+'''''''''''''''''''''''''''''''''''''''''''
 
 @endmindmap
