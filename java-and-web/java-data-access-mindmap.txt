@@ -1,0 +1,76 @@
+@startmindmap
+
+* Java Data Access
+
+** JDBC Database Access
+
+*** JDBC Introduction
+*** JDBC API
+
+**** Connection
+**** DataSource
+**** Statement
+**** PreparedStatement
+**** ResultSet
+**** Transactions
+**** RowSet
+**** Advanced Data Types
+**** Stored Procedures
+
+** JDBC Connection Pools
+
+*** (Pools API & Configurations)
+*** Apache Commons DBCP
+*** C3P0
+*** HikariCP
+*** Tomcat JDBC
+*** Alibaba Druid
+
+** Persistence Frameworks
+
+*** Hibernate
+**** ORM
+**** Mapping Strategies
+**** Transaction Process
+**** Queries
+
+*** MyBatis
+
+**** Building SqlSessionFactory from XML or Java
+**** Acquiring a SqlSession From SqlSessionFactory
+**** Mapped SQL Statements
+**** Scope and Lifecycle
+**** Dynamic SQL
+**** SQL Builder
+
+** NoSQL Access
+
+*** Access Redis
+
+**** Jedis
+**** Lettuce
+**** Redisson
+
+*** Access MongoDB
+
+**** MongoDB Java Driver
+
+** Java Cache
+
+*** Guava Cache
+*** Ehcache
+*** Memcached
+
+
+
+'''''''''''''''''''''''''''''''''''''''''''
+' References:
+' The Java Tutorial, JDBC part - DOC
+' Java Persistence with Hibernate
+' Hibernate Documentations
+' MyBatis Documentations
+'
+'''''''''''''''''''''''''''''''''''''''''''
+
+
+@endmindmap
