@@ -19,12 +19,9 @@
 
 ** JDBC Connection Pools
 
-*** (Pools API & Configurations)
-*** Apache Commons DBCP
-*** C3P0
-*** HikariCP
-*** Tomcat JDBC
-*** Alibaba Druid
+*** (Apache Commons DBCP, C3P0, HikariCP, Tomcat JDBC, Alibaba Druid)
+*** Pools API
+*** Configurations
 
 ** Persistence Frameworks
 
@@ -48,20 +45,58 @@
 *** Access Redis
 
 **** Jedis
+
+***** Basic API Usage
+***** JedisPool
+***** Setting up master/slave distribution
+***** Transactions
+***** Pipelining
+***** Publish/Subscribe
+***** ShardedJedis
+***** Miscellaneous
+
 **** Lettuce
+
+***** Connecting Redis
+****** Basic Usage
+****** Asynchronous API
+****** Reactive API
+****** Publish/Subscribe
+****** Transactions
+***** High-Availability and Sharding
+****** Master/Replica
+****** Redis Sentinel
+****** Redis Cluster
+****** RedisForm Settings
+***** Working with dynamic Redis Command Interfaces
+***** Advanced Usage
+
 **** Redisson
 
 *** Access MongoDB
 
-**** MongoDB Java Driver
+**** MongoDB Java Drivers
+
+***** Java Driver
+***** Reactive Streams
+***** BSON
+***** Builders
+***** Scala Driver
 
 ** Java Cache
 
 *** Guava Cache
+
+**** (A function of Guava)
+**** Guava API
+
 *** Ehcache
-*** Memcached
 
-
+**** Configuring Ehcache
+**** Cache Clustering
+**** Storage Tiers
+**** Data Freshness
+**** Advanced Topics
 
 '''''''''''''''''''''''''''''''''''''''''''
 ' References:
@@ -69,7 +104,11 @@
 ' Java Persistence with Hibernate
 ' Hibernate Documentations
 ' MyBatis Documentations
-'
+' Jedis GitHub (README, Wiki)
+' Lettuce GitHub, Reference Documentation
+' MongoDB Java Drivers Reference Documentation
+' Guava GitHub (Wiki)
+' Ehcache User Guide Documentation
 '''''''''''''''''''''''''''''''''''''''''''
 
 
