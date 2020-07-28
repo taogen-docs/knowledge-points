@@ -4,9 +4,32 @@
 
 ** Java Servlet
 
-** Web pages / Template Engines
+*** Introduction to Servlet
+*** The Servlet Interface
+*** The Request
+*** Servlet Context
+*** The Response
+*** Filtering
+*** Sessions
+*** Dispatching Requests
+*** Web Applications
+*** Application Lifecycle Events
+*** Mapping Requests to Servlet
+*** Security
+*** Deployment Descriptor
+*** Annotations and Pluggability
+
+** Web Pages
 
 *** JavaServer Pages (JSP)
+
+**** Introduction to JSP
+**** Expression Language (EL)
+**** JSP StandardTag Library (JSTL)
+**** Standard Actions (<jsp:xxx>)
+**** Tag Extensions
+**** Tag Files
+
 *** Apache FreeMarker
 *** Thymeleaf
 
@@ -43,8 +66,9 @@
 
 '''''''''''''''''''''''''''''''''''''''''''
 ' References:
-'
-'
+' Servlet Specification, v2.5, v3.0
+' JavaServer Pages Specification, v2.0
+' Murach's Java Servlets and JSP (3rd)
 '
 '''''''''''''''''''''''''''''''''''''''''''
 
