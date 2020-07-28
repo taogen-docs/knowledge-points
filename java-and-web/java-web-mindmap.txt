@@ -1,0 +1,51 @@
+@startmindmap
+
+* Java Web
+
+** Java Servlet
+
+** Web pages / Template Engines
+
+*** JavaServer Pages (JSP)
+*** Apache FreeMarker
+*** Thymeleaf
+
+
+** Web Frameworks
+
+*** Spring Framework
+
+*** Spring Boot
+
+** Security Frameworks
+
+*** Spring Security
+
+*** Apache Shiro
+
+** API
+
+*** Swagger UI
+
+*** GraphQL
+
+** Web Servers
+
+*** Apache Tomcat
+
+*** Jetty
+
+** Web Protocols
+
+*** HTTP
+
+*** HTTPS
+
+'''''''''''''''''''''''''''''''''''''''''''
+' References:
+'
+'
+'
+'''''''''''''''''''''''''''''''''''''''''''
+
+@endmindmap
