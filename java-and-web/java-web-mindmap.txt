@@ -2,6 +2,8 @@
 
 * Java Web
 
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
 ** Java Servlet
 
 *** Introduction to Servlet
@@ -19,6 +21,8 @@
 *** Deployment Descriptor
 *** Annotations and Pluggability
 
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
 ** Web Pages
 
 *** JavaServer Pages (JSP)
@@ -31,20 +35,129 @@
 **** Tag Files
 
 *** Apache FreeMarker
+
+**** Introduction
+**** Values, Types
+**** The Template
+**** Basic API
+**** The Data Model
+**** The Configuration
+**** Miscellaneous
+
 *** Thymeleaf
+
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
 
 
 ** Web Frameworks
 
 *** Spring Framework
 
+**** Introduction
+**** Core Technologies
+***** The IoC Container
+***** Resources
+***** Validation, Data Binding, and Type Conversion
+***** Spring Expression Language (SpEL)
+***** Aspect Oriented Programming with Spring
+***** Spring AOP APIs
+
+**** Testing
+
+***** Unit Testing
+***** Integrating Testing
+
+**** Data Access
+
+***** Transaction Management
+***** DAO support
+***** Data Access with JDBC
+***** ORM Data Access
+***** Marshalling XML using O/X Mappers
+
+**** The Web
+
+***** Web MVC framework
+***** View technologies
+***** CORS Support
+***** Integrating with other web frameworks
+***** WebSocket Support
+***** Web Reactive Framework
+
+**** Integration
+
+***** Remoting and web services
+***** EJB integration
+***** JMS (Java Message Service)
+***** JMX
+***** JCA CCI
+***** Email
+***** Task Execution and Scheduling
+***** Dynamic language support
+***** Cache Abstraction
+
 *** Spring Boot
+
+**** Introduction
+
+***** What is spring boot
+***** Developing spring boot application
+
+**** Using Spring Boot
+
+***** Structuring Your Code
+***** Configuration classes
+***** Auto-configuration
+***** Running your application
+***** Developer Tools
+
+**** Spring Boot Features
+**** Spring Boot Actuator (production)
+**** Deploying Spring Boot Applications
+**** Spring Boot CLI
+**** Build tool plugins
+**** How-to guides
+
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
 
 ** Security Frameworks
 
 *** Spring Security
 
+**** Introduction
+
+**** Servlet Applications
+
+***** Authentication
+***** Authorization
+***** OAuth2
+***** SAML2
+***** ...
+
+**** Reactive Applications
+
+
 *** Apache Shiro
+
+**** Overview
+**** Core
+
+***** Authentication
+***** Authorization
+***** Realms
+***** Session Management
+***** Cryptography
+
+**** Web Applications
+**** Auxiliary Support
+**** Integration
+
+***** Spring Framework
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
 
 ** API
 
@@ -52,11 +165,17 @@
 
 *** GraphQL
 
+
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
 ** Web Servers
 
 *** Apache Tomcat
 
 *** Jetty
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
 
 ** Web Protocols
 
@@ -64,12 +183,18 @@
 
 *** HTTPS
 
+
+
 '''''''''''''''''''''''''''''''''''''''''''
 ' References:
 ' Servlet Specification, v2.5, v3.0
 ' JavaServer Pages Specification, v2.0
 ' Murach's Java Servlets and JSP (3rd)
-'
+' Apache Freemarker Documentation
+' Spring Framework Reference
+' Spring Boot Reference
+' Spring Security Reference
+' Apache Shiro Documentation
 '''''''''''''''''''''''''''''''''''''''''''
 
 @endmindmap
