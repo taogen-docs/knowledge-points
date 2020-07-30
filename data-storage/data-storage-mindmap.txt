@@ -1,0 +1,110 @@
+@startmindmap
+
+* Data Storage
+
+** Relational Databases
+
+*** MySQL
+
+**** General MySQL Use
+
+***** Getting Started (install, connect)
+***** SQL Statements
+***** Character Sets, Collations, Unicode
+***** Language Structure
+***** Data Types
+***** Functions and Operators
+***** Stored Programs
+***** Query Optimization
+***** Storage Engines
+***** InnoDB cluster
+***** Partitioning
+
+**** Using MySQL Programming Interfaces
+
+***** Introduction to MySQL Programming
+***** Writing MySQL Program Using C/PHP/Java
+
+**** MySQL Administration
+
+***** Introduction to MySQL Administration
+***** The MySQL Data Directory
+***** General MySQL Administration
+***** Access Control and Security
+***** Database Maintenance, Backup/recovery, and Replication
+
+
+*** MariaDB
+*** PostgreSQl
+*** SQL Server
+*** Oracle
+
+** NoSQL Databases
+
+*** Redis
+
+**** Getting Started
+
+**** Basics
+
+***** Databases
+***** Commands, keys and Values
+***** Querying
+***** Memory and Persistence
+
+**** The Data Structures
+
+***** Strings, Hashes, Lists, Sets, Sorted Sets
+
+**** Leveraging Data Structures
+
+***** Multi Key Queries
+***** References and Indexes
+***** Round Tips and Pipelining
+***** Transactions
+***** Keys Anti-pattern
+
+**** Beyond The Data Structures
+
+***** Expiration
+***** Publication and Subscriptions
+***** Monitor and Show Log
+***** Sort
+
+**** Lua Scripting
+
+**** Administration
+
+***** Configuration
+***** Authentication
+***** Size Limitations
+***** Replication
+***** Backups
+***** Scaling and Redis Cluster
+
+*** MongoDB
+
+** Cache
+
+*** Redis
+*** Memcached
+
+** Search Engine
+
+*** Apache Lucene
+*** Apache Solr
+*** Elasticsearch
+
+** Graph Databases
+
+
+
+'''''''''''''''''''''''''''''''''''''''''''
+' References:
+' MySQl by Paul DuBois
+' MySQL Reference Manual
+' The Little Redis book
+'
+'''''''''''''''''''''''''''''''''''''''''''
+
+@endmindmap
