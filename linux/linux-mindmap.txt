@@ -1,0 +1,35 @@
+@startmindmap
+
+* Linux
+
+** Introduction
+
+** Basics
+
+*** Shell Features
+*** Moving Around the Filesystem
+*** Working with Text Files
+*** Managing Running Processes
+
+** Linux System Administrator
+
+** Linux Server Administrator
+
+** Programming with Shell Scripts
+
+*** Shell Scripts
+*** Whitespace and Linebreaks
+*** Variable
+*** Input and Output
+*** Control Flow
+
+
+'''''''''''''''''''''''''''''''''''''''''''
+' References:
+' Linux Bible
+' The Linux Command Line
+' Linux Pocket Guide
+'
+'''''''''''''''''''''''''''''''''''''''''''
+
+@endmindmap
