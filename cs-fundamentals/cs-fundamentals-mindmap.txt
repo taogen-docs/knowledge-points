@@ -3,17 +3,61 @@
 * CS Fundamentals
 
 ** Data Structures and Algorithms
+
+*** Basic Concepts
+*** Algorithm Analysis
+*** Basic Data Structures
+*** Advanced Data Structures
+*** Common Algorithms (e.g sort, search)
+*** Algorithms Design (e.g dynamic programming)
+
 ** Computer Architecture
+
+*** Basic Concepts
+*** Instruction
+*** Arithmetic for Computers
+*** Processor
+*** Memory
+
 ** Operating System
+
+*** Basic Concepts
+*** Operating System Structure
+*** Process Management
+*** Memory Management
+*** Storage Management
+*** Protection and Security
+*** Distributed Systems
+
 ** Computer Networks
+
+*** Basic Concepts
+*** Application Layer
+*** Transport Layer
+*** Network Layer
+*** Data Link Layer
+*** Physical Layer
+*** Network Security
+
 ** Database Systems
+
+*** Basic Concepts
+*** Relational Model and SQL
+*** Database Design
+*** Data Storage and Querying
+*** Transaction Management
+*** System Architecture
+*** Data Mining
+*** Advanced Topics
+
 ** Computer Mathematics
+
 ** Compiler
 
 
 '''''''''''''''''''''''''''''''''''''''''''
 ' References:
-'
+' Computer Science Knowledge Structure Diagram
 '
 '''''''''''''''''''''''''''''''''''''''''''
 
