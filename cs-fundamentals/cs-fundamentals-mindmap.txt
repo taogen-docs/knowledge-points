@@ -1,0 +1,20 @@
+@startmindmap
+
+* CS Fundamentals
+
+** Data Structures and Algorithms
+** Computer Architecture
+** Operating System
+** Computer Networks
+** Database Systems
+** Computer Mathematics
+** Compiler
+
+
+'''''''''''''''''''''''''''''''''''''''''''
+' References:
+'
+'
+'''''''''''''''''''''''''''''''''''''''''''
+
+@endmindmap
