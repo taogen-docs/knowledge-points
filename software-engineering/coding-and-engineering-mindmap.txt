@@ -1,0 +1,39 @@
+@startmindmap
+
+* Coding and Engineering
+
+** Clean Code
+
+*** Meaningful Names
+*** Functions
+*** Comments
+*** Formatting
+*** Objects and Data Structures
+*** Error Handling
+*** Unit Tests
+
+** Code Refactoring
+
+** Design Patterns
+
+*** Introduction
+*** Creational Patterns
+*** Structural Patterns
+*** Behavioral Patterns
+
+** Architecture Design
+** Test
+** DevOps
+** Development Tools
+** Software Engineering
+** SER
+** Team and Agile
+
+'''''''''''''''''''''''''''''''''''''''''''
+' References:
+' Clean Code
+' Design Patterns: Elements of Reusable Object-Oriented Software
+'
+'''''''''''''''''''''''''''''''''''''''''''
+
+@endmindmap
