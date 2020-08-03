@@ -11,10 +11,6 @@
 *** Working with Text Files
 *** Managing Running Processes
 
-** Linux System Administrator
-
-** Linux Server Administrator
-
 ** Programming with Shell Scripts
 
 *** Shell Scripts
@@ -23,6 +19,21 @@
 *** Input and Output
 *** Control Flow
 
+** Linux System Administrator
+
+*** Administration and Configuration
+*** Managing Software
+*** Managing User Accounts
+*** Managing Disks and Filesystems
+
+** Linux Server Administrator
+
+*** Networking
+*** Services
+*** Configuring Servers (Web, FTP, NFS etc.)
+*** Troubleshooting Linux
+
+** Linux Security
 
 '''''''''''''''''''''''''''''''''''''''''''
 ' References:
