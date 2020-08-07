@@ -1,0 +1,55 @@
+@startmindmap
+
+* Spring Framework
+
+** Introduction
+
+*** Getting Started with Spring
+*** Dependency Injection
+*** Modules
+*** Usage Scenarios
+
+** Core Technologies
+*** The IoC Container
+*** Resources
+*** Validation, Data Binding, and Type Conversion
+*** Spring Expression Language (SpEL)
+*** Aspect Oriented Programming with Spring
+*** Spring AOP APIs
+
+** Testing
+
+*** Unit Testing
+*** Integrating Testing
+
+** Data Access
+
+*** Transaction Management
+*** DAO support
+*** Data Access with JDBC
+*** ORM Data Access
+*** Marshalling XML using O/X Mappers
+
+** The Web
+
+*** Web MVC framework
+*** View technologies
+*** CORS Support
+*** Integrating with other web frameworks
+*** WebSocket Support
+*** Web Reactive Framework
+
+** Integration
+
+*** Remoting and web services
+*** EJB integration
+*** JMS (Java Message Service)
+*** JMX
+*** JCA CCI
+*** Email
+*** Task Execution and Scheduling
+*** Dynamic language support
+*** Cache Abstraction
+
+
+@endmindmap
