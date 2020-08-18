@@ -213,6 +213,8 @@
 
 *** GUI Programming and Swing
 
+*** Native Methods
+
 
 '''''''''''''''''''''''''''''''''''
 'Utility
