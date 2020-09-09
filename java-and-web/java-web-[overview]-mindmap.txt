@@ -106,13 +106,32 @@
 
 **** Using Spring Boot
 
+***** Build Systems
+****** Dependency Management
+****** Starter
+
 ***** Structuring Your Code
+****** Main Application Class
+
 ***** Configuration classes
 ***** Auto-configuration
 ***** Running your application
 ***** Developer Tools
+***** Packaging for Production
+
 
 **** Spring Boot Features
+
+***** SpringApplication, \n\
+    Externalized Configuration, \n\
+    Profiles, \n\
+    Logging
+***** Working with Database, Caching
+***** REST Services
+***** Internationalization
+***** JSON
+***** ...
+
 **** Spring Boot Actuator (production)
 **** Deploying Spring Boot Applications
 **** Spring Boot CLI
