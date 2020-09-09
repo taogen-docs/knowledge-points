@@ -1,0 +1,117 @@
+@startmindmap
+
+* MySQL
+
+** Introduction to MySQL
+
+** General MySQL Use
+
+*** MySQL Basic
+
+**** Getting Started (install, connect)
+**** Relational DB Structure \n\
+    Table, Row, Column
+**** Key, Index
+**** View
+
+*** SQL Statements
+
+**** Data Definition Statements
+**** Data Manipulation Statements
+**** Transactional and Locking Statements
+**** Replication Statements
+**** Prepared Statements
+**** Compound Statement Syntax
+**** Database Administration Statements
+**** Utility Statements
+
+*** Character Sets, Collations, Unicode
+
+**** Character Sets and Collations in MySQL
+**** Configuring Application Character Set and Collation
+
+*** Language Structure
+
+**** Literal Values
+**** Schema Object Names
+**** Keywords and Reserved Words
+**** User-Defined Variables
+**** Expressions
+**** Comment Syntax
+
+*** Data Types
+
+**** Numeric Data Types
+**** Date and Time Data Types
+**** String Data Types
+**** Spatial Data Types
+**** The JSON Data Type
+**** Data Type Default Values
+**** Data Type Storage Requirements
+**** Choosing the Right Type for a Column
+**** Using Data Types from Other Database Engines
+
+*** Functions and Operators
+
+**** SQL Function
+**** User-Defined Function
+**** Type Conversion in Expression Evaluation
+**** Operators
+
+***** Operator Precedence
+***** Comparison Functions and Operators
+***** Logical Operators
+***** Assignment Operators
+
+**** Flow Control Functions
+**** Numeric Functions and Operators
+**** Date and Time Functions
+
+**** String Functions and Operators
+***** String Comparison Functions and Operators
+***** Regular Expressions
+***** Character Set and Collation of Function Results
+
+**** Full-Text Search Functions
+**** Cast Functions and Operators
+**** Bit Functions and Operators
+**** Encryption and Compression Functions
+**** Aggregate Functions
+**** Window Functions
+**** ......
+
+*** Stored Programs
+
+**** Stored Programs
+**** Stored Routines
+**** Triggers
+**** Views
+**** Stored Object Access Control
+**** Stored Program Binary Logging
+
+*** Query Optimization
+
+*** Storage Engines
+
+**** InnoDB
+**** MyISAM Storage Engine
+**** MEMORY Storage Engine
+
+*** InnoDB cluster
+*** Partitioning
+
+** Using MySQL Programming Interfaces
+
+*** Introduction to MySQL Programming
+*** Writing MySQL Program Using C/PHP/Java
+
+** MySQL Administration
+
+*** Introduction to MySQL Administration
+*** The MySQL Data Directory
+*** General MySQL Administration
+*** Access Control and Security
+*** Database Maintenance, Backup/recovery, and Replication
+
+
+@endmindmap
