@@ -7,13 +7,34 @@
 ** Basics
 
 *** Shell Features
+
+**** Choose your shell
+**** Basic shell commands
+
 *** Moving Around the Filesystem
+
+**** Move Around Commands
+**** File match metacharacters, \n  and brace expansion characters
+**** File redirection
+**** File permission and ownership
+**** File creation, rename, remove, move commands
+
 *** Working with Text Files
+
+**** Text editors
+**** searching for files
+**** searching in files
+
 *** Managing Running Processes
+
+**** Processes view, kill
+**** process listen port
+**** process priority
+**** Running in foreground and background
 
 ** Programming with Shell Scripts
 
-*** Shell Scripts
+*** Shell Script Basics
 *** Whitespace and Linebreaks
 *** Variable
 *** Input and Output
@@ -22,18 +43,33 @@
 ** Linux System Administrator
 
 *** Administration and Configuration
+
 *** Managing Software
+
 *** Managing User Accounts
+
+**** User Accounts
+**** User Groups
+
 *** Managing Disks and Filesystems
 
 ** Linux Server Administrator
 
 *** Networking
+
 *** Services
+
+**** initialization system (init)
+**** systemd, unit configuration, $ systemctl
+
 *** Configuring Servers (Web, FTP, NFS etc.)
+
 *** Troubleshooting Linux
 
 ** Linux Security
+
+*** Firewall
+**** Using ufw
 
 '''''''''''''''''''''''''''''''''''''''''''
 ' References:
