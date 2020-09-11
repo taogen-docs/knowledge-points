@@ -68,8 +68,11 @@
 
 ** Linux Security
 
-*** Firewall
-**** Using ufw
+*** Securing Linux on a network
+**** Auditing Network Services
+**** Working with firewalls
+***** iptables
+***** ufw
 
 '''''''''''''''''''''''''''''''''''''''''''
 ' References:
