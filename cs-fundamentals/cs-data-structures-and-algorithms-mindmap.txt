@@ -1,0 +1,58 @@
+@startmindmap
+
+
+* DSA
+
+** Basic Concepts
+
+*** Abstract Data Types and Data Structures
+*** Problems, Algorithms, and Programs
+
+** Algorithm Analysis
+
+*** Best, Worst, and Average Cases
+*** Asymptotic Analysis
+*** Calculating the Running Time for a Program
+
+
+** Fundamental Data Structures
+
+*** Array
+*** Linked List
+*** Stack
+*** Queue
+*** Tree (Binary Tree)
+*** Graph
+
+** Common Algorithms (sort, search)
+
+*** Sort
+*** Search
+*** Bit Manipulation
+*** Mathematical Algorithms
+*** Number Theory
+
+** Advanced Data Structures
+
+*** Binary Search Tree, AVL Tree
+*** B-Tree, Red–black Tree
+*** Heap
+*** Trie
+*** Dictionary
+*** Hashing (Hash Table)
+*** Priority Queue
+*** String
+*** Matrix
+
+** Algorithm Design
+
+*** Dynamic programming
+*** Divide and Conquer
+*** Greedy
+*** Backtracking
+*** DFS/BFS
+*** Randomized
+*** Branch and Bound
+
+
+@endmindmap
