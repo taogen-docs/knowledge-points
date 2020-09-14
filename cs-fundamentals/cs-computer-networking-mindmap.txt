@@ -1,0 +1,92 @@
+@startmindmap
+
+
+* Computer Networks
+
+** Computer Networks and the Internet
+
+*** What is the Internet
+*** Network Edge
+*** Network Core
+*** Delay, Loss and Throughput
+*** Protocol Layers and Service Models
+*** Networks Under Attack
+*** History of Computer Networking and the Internet
+
+** Application Layer
+
+*** Principles of Network Applications
+*** The Web and HTTP
+*** Electronic Mail
+*** DNS--the Internet's Directory Service
+*** Peer-to-Peer Applications
+*** Video Streaming and Content Distribution Networks
+*** Socket Programming
+
+** Transport Layer
+
+*** Transport-Layer Services
+*** Multiplexing and Demultiplexing
+*** Connectionless Transport: UDP
+*** Principles of Reliable Data Transfer
+*** Connection-Oriented Transport: TCP
+*** Principles of Congestion Control
+*** TCP Congestion Control
+
+** Network Layer
+
+*** The Network Layer: Data Plane
+
+**** Inside a Router
+**** The Internet Protocol (IP)
+***** IPv4, Addressing, IPv6
+**** Generalized Forwarding and SDN
+
+*** The Network Layer: Control Plane
+
+**** Routing Algorithms
+**** Intra-AS Routing in the Internet: OSPF
+**** Routing Among the ISPs: BGP
+**** The SDN Control Plane
+**** ICMP: The Internet Control Message Protocol
+**** Network Management and SNMP
+
+** Data Link Layer and LANs
+
+*** Introduction to Link Layer
+*** Error-Detection and Correction Techniques
+*** Multiple Access Links and Protocols
+*** Switched Local Area Networks
+*** Link Virtualization: A Network as a Link Layer
+*** Data Center Networking
+
+** Wireless and Mobile Networks
+
+*** Introduction
+*** Wireless Links and Network Characteristics
+*** WiFi: 802.11 Wireless LANs
+*** Cellular Internet Access
+*** Mobility Management Principles
+*** Mobile IP
+*** Managing Mobility in Cellular Networks
+*** Wireless and Mobility
+
+** Physical Layer
+
+** Network Security
+
+*** Introduction
+*** Principles of Cryptography
+*** Message Integrity and Digital Signatures
+*** End-Point Authentication
+*** Securing E-Mail
+*** Securing TCP Connections: SSL
+*** Network-Layer Security: IPsec \n\
+    and Virtual Private Networks (VPN)
+*** Securing Wireless LANs
+*** Operational Security: Firewalls \n\
+    and Intrusion Detection Systems
+
+** Multimedia Networking
+
+@endmindmap
