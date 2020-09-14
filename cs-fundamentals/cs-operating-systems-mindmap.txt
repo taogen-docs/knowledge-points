@@ -1,0 +1,64 @@
+@startmindmap
+
+* Operating System
+
+** Introduction to OS
+
+*** What Operating System Do
+*** Computer-System Organization
+*** Computer-System Architecture
+*** Computer-System Operations
+*** Resource Management
+*** Security and Protection
+*** Virtualization
+*** Kernel Data Structure
+*** Computing Environments
+*** Common Operating Systems
+
+** Operating System Structure
+
+*** Operating-System Services
+*** User and Operating-System Interface
+*** System Calls
+*** System Services
+*** Linkers and Loaders
+*** Operating-System Design and Implementation
+*** Operating-System Structure
+*** Building and Booting an Operating System
+
+** Process Management
+
+*** Processes
+*** Thread and Concurrency
+*** CPU Scheduling
+*** Synchronization Tools
+*** Deadlocks
+
+** Memory Management
+
+*** Main Memory
+*** Virtual Memory
+
+
+** Storage Management
+
+*** Mass-Storage Structure
+*** I/O Systems
+*** File-System Interface
+*** File-System Implementation
+*** File-System Internal
+
+** Protection and Security
+
+*** Security
+
+*** Protection
+
+** Advanced Topics
+
+*** Virtual Machines
+
+*** Network and Distributed Systems
+
+
+@endmindmap
