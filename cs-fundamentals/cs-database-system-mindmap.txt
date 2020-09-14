@@ -1,0 +1,185 @@
+@startmindmap
+
+* Database Systems
+
+** Introduction to DBMS
+
+*** DBMS Applications
+*** Purpose of DBMS
+*** View of Data
+*** Database Languages
+*** Relational Databases
+*** Database Design
+*** ...
+
+** Relational Model and SQL
+
+*** Introduction to Relational Model
+
+**** Structure of Relational Databases
+**** Database Schema
+**** Keys
+**** Schema Diagrams
+**** Relational Query Languages
+**** Relational Operations
+
+*** Introduction to SQL
+
+**** SQL Query Language
+**** SQL Data Definition
+**** Structure of SQL Queries
+**** Basic Operations
+**** Aggregate Functions
+**** Nested Subqueries
+**** Modify Databases
+
+*** Intermediate SQL
+
+**** Join Expressions
+**** Views
+**** Transactions
+**** Integrity Constraints
+**** SQL Data Types and Schemas
+**** Authorization
+
+*** Advanced SQL
+
+**** Accessing SQL From a Programming Language
+**** Functions and Procedures
+**** Triggers
+
+*** Formal Relational Query Languages
+
+**** Relational Algebra
+**** Tuple Relational Calculus
+**** Domain Relational Calculus
+
+** Database Design
+
+*** Database Design and E-R Model
+
+**** Design Process
+**** Entity-Relationship Model
+**** Constraints
+**** Removing Redundant Attributes
+**** Entity-Relationship Diagrams
+
+*** Relational Database Design
+
+**** Relational Designs
+**** Atomic Domains and First Normal Form
+**** Decomposition Using Functional Dependencies
+**** Functional-Dependency Theory
+**** Algorithms for Decomposition
+**** Decomposition Using Multivalued Dependencies
+**** More Normal Forms
+**** Database-Design Process
+
+*** Application Design and Development
+
+**** JDBC, ODBC
+
+** Data Storage and Querying
+
+*** Storage and File Structure
+
+**** Physical Storage Media
+**** Magnetic Disk and Flash Storage
+**** RAID
+**** Tertiary Storage
+**** File Organization
+**** Organization of Records in Files
+**** Data-Dictionary Storage
+**** Database Buffer
+
+
+*** Indexing and Hashing
+
+**** Basic Concepts
+**** Ordered Indices
+**** B+ Tree Index Files
+**** B+ Tree Extensions
+**** Multiple-Key Access
+**** Static Hashing
+**** Dynamic Hashing
+**** Bitmap indices
+**** Index Definition in SQL
+
+*** Query Processing
+
+**** Overview
+**** Measures of Query Cost
+**** Selection Operation
+**** Sorting
+**** Join Operation
+**** Other Operations
+**** Evaluation of Expressions
+
+*** Query Optimization
+
+**** Overview
+**** Transformation of Relational Expressions
+**** Estimating Statistics of Expression Results
+**** Choice of Evaluation Plans
+
+** Transaction Management
+
+*** Transactions
+
+**** Transaction Concept
+**** Simple Transaction Model
+**** Storage Structure
+**** Transaction Atomicity and Durability
+**** Transaction Isolation
+**** Serializability
+**** Transaction Isolation Levels
+**** Transaction as SQL statements
+
+
+*** Concurrency Control
+
+**** Lock-Based Protocols
+**** Deadlock Handling
+**** Multiple Granularity
+**** Timestamp-Based Protocols
+**** Validation-Based Protocols
+**** Multiversion Schemes
+**** Snapshot Isolation
+
+*** Recovery System
+
+**** Failure Classification
+**** Storage
+**** Recovery and Atomicity
+**** Recovery Algorithm
+**** Buffer Management
+**** Remote Backup Systems
+
+** System Architecture
+
+*** Database-System Architecture
+
+*** Parallel Databases
+
+*** Distributed Databases
+
+** Data Warehouse, Data Mining, \n\
+    and information Retrieval
+
+*** Data Warehousing and Mining
+*** Information Retrieval
+
+** Special Databases
+
+*** Object-Based Databases
+*** XML
+
+
+** Advanced Topics
+
+*** Advanced Application Development
+*** Spatial and Temporal Data and Mobility
+*** Advanced Transaction Processing
+
+
+@endmindmap
