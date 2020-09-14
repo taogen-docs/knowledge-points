@@ -73,6 +73,15 @@
 
 ** Physical Layer
 
+*** Basic Data Communication
+*** Transmission Media
+*** Wireless Transmission
+*** Communication Satellites
+*** Digital Modulation and Multiplexing
+*** Switched Telephone Network
+*** Mobile Telephone Network
+*** Cable Television
+
 ** Network Security
 
 *** Introduction
