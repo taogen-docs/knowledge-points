@@ -27,7 +27,26 @@
 ** Common Algorithms (sort, search)
 
 *** Sort
+
+**** Bubble Sort
+**** Selection Sort
+**** Insertion Sort
+**** Recursive Bubble Sort
+**** Recursive Insertion Sort
+**** Merge Sort
+**** Quick Sort
+**** Iterative Quick Sort
+**** Iterative Merge Sort
+**** Heap Sort
+**** Counting Sort
+**** Radix Sort
+**** Bucket Sort
+**** ShellSort
+
 *** Search
+
+**** Binary Search
+
 *** Bit Manipulation
 *** Mathematical Algorithms
 *** Number Theory
