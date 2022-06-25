@@ -5,9 +5,9 @@
 - Introduction to Java Platform
 - Part I: Basics
   - Variables and Types
-  - Operators
-  - Expressions, Statements, and Blocks
   - String and Array
+  - Operators and Expressions
+  - Statements, and Blocks
 - Part II: Core
   - Classes and Objects
     - Object-Oriented
